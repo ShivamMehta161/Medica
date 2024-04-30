@@ -35,26 +35,34 @@ The persistence of challenges in healthcare, such as inaccurate diagnosis, delay
 
 Medica is at the forefront of addressing these pressing challenges in healthcare through innovative AI and ML-driven solutions. Leveraging advanced algorithms and data analytics, Medica is revolutionizing diagnostics, personalized medicine, pandemic response, and mental healthcare delivery.
 Through its commitment to excellence, collaboration, and ethical practice, Medica strives to transform the future of healthcare, making high-quality care more accessible, equitable, and effective for all individuals.
-
+## Features  
 Explore the cutting-edge features of Medica, our revolutionary healthcare solution powered by advanced AI and machine learning technologies.
+### Dashboard Overview:
+The dashboard offers users a comprehensive view of their healthcare journey, including age, appointments, and medication reminders. It's designed for easy navigation and empowers users to manage their health effectively.
+![Picture2](https://github.com/ShivamMehta161/Medica/assets/116088341/e1405e84-4fe7-48c7-be03-b00ce8d39251)
+
+#### Vital Monitoring:
+Users can monitor vital signs like blood pressure within the dashboard, facilitating proactive health management and early detection of potential issues.
+![Picture3](https://github.com/ShivamMehta161/Medica/assets/116088341/62ecc333-f4c2-4fab-bbc3-50a3f75e0028)
+
 ###
 
 
 
 
 ### Social Benefits
--**Empowered Patients**: Our solution empowers patients to take control of their health by providing them with personalized treatment plans, access to relevant medical information, and tools for self-monitoring and self-care.
--**Efficient Resource Allocation**: Through predictive analytics and data-driven insights, our solution helps healthcare providers optimize resource allocation and decision-making, ultimately leading to more efficient healthcare delivery and better patient outcomes.
--**Equitable Healthcare Delivery:** By addressing challenges such as data privacy concerns and algorithmic biases, our solution promotes equity in healthcare delivery, ensuring that everyone receives fair treatment and access to personalized care.
+- **Empowered Patients**: Our solution empowers patients to take control of their health by providing them with personalized treatment plans, access to relevant medical information, and tools for self-monitoring and self-care.
+- **Efficient Resource Allocation**: Through predictive analytics and data-driven insights, our solution helps healthcare providers optimize resource allocation and decision-making, ultimately leading to more efficient healthcare delivery and better patient outcomes.
+- **Equitable Healthcare Delivery:** By addressing challenges such as data privacy concerns and algorithmic biases, our solution promotes equity in healthcare delivery, ensuring that everyone receives fair treatment and access to personalized care.
 ### Sustainable Development Goals (SDG)
--**Good Health and Well-being (SDG 3)**: Our project directly contributes to SDG 3 by leveraging AI and ML technologies to improve healthcare access, enhance diagnostic accuracy, and promote preventive care, ultimately leading to better health outcomes for individuals worldwide.
--**Industry, Innovation, and Infrastructure (SDG 9)**: Our project fosters innovation in healthcare delivery by promoting interdisciplinary collaboration, supporting research and development efforts, and leveraging cutting-edge technologies to address complex healthcare challenges, thereby contributing to SDG 9.
--**Partnerships for the Goals (SDG 17)**: Our project emphasizes the importance of collaborative partnerships between academia, industry, healthcare institutions, and regulatory agencies to drive innovation, share knowledge, and implement responsible AI deployment practices, thereby contributing to SDG 17.
+- **Good Health and Well-being (SDG 3)**: Our project directly contributes to SDG 3 by leveraging AI and ML technologies to improve healthcare access, enhance diagnostic accuracy, and promote preventive care, ultimately leading to better health outcomes for individuals worldwide.
+- **Industry, Innovation, and Infrastructure (SDG 9)**: Our project fosters innovation in healthcare delivery by promoting interdisciplinary collaboration, supporting research and development efforts, and leveraging cutting-edge technologies to address complex healthcare challenges, thereby contributing to SDG 9.
+- **Partnerships for the Goals (SDG 17)**: Our project emphasizes the importance of collaborative partnerships between academia, industry, healthcare institutions, and regulatory agencies to drive innovation, share knowledge, and implement responsible AI deployment practices, thereby contributing to SDG 17.
 
 
 
 
-
+##
 
 ## Challenges
 
