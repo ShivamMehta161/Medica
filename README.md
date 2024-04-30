@@ -6,7 +6,7 @@
 ## Team Members
 - Gagandeep Kaur (22BAI70537)
 - Shivam Mehta (22BAI70606)
-- Harsimranjeet Singh (22BAI70537)
+- Harsimranjeet Singh (22BAI70441)
 
 ## Problem Statement
 
@@ -45,8 +45,18 @@ The dashboard offers users a comprehensive view of their healthcare journey, inc
 Users can monitor vital signs like blood pressure within the dashboard, facilitating proactive health management and early detection of potential issues.
 ![Picture3](https://github.com/ShivamMehta161/Medica/assets/116088341/62ecc333-f4c2-4fab-bbc3-50a3f75e0028)
 
-###
+### Menstruation Tracker:
+The menstruation tracker feature allows users to log and track their menstrual cycles, providing insights into their reproductive health and facilitating better management of menstrual symptoms.
+![Picture4](https://github.com/ShivamMehta161/Medica/assets/116088341/632c754a-9367-4914-9b08-944424e8db54)
+#### Personalized Recommendations:
+Based on the user's menstrual cycle data and reported symptoms, the system generates personalized recommendations for yoga asanas, exercises, and dietary adjustments to alleviate discomfort and promote overall well-being.
+![Picture5](https://github.com/ShivamMehta161/Medica/assets/116088341/c9984dc8-ef2d-45cf-bf8d-e005b837fbf7)
+### AI Doctor Chatbot:
+The AI Doctor Chatbot feature offers users the convenience of accessing medical advice and recommendations anytime, anywhere. Users can input their symptoms or health concerns into the chatbot, which utilizes artificial intelligence algorithms to provide relevant information and guidance.
 
+#### Personalized Doctor Recommendations:
+Based on the user's reported symptoms and health history, the chatbot suggests profiles of healthcare providers specializing in relevant fields or conditions. This personalized recommendation system helps users find the most suitable doctors for their specific healthcare needs.
+![Picture6](https://github.com/ShivamMehta161/Medica/assets/116088341/161e0d8c-43e8-43ff-a171-39b36d6c2aaf)
 
 
 
@@ -62,14 +72,18 @@ Users can monitor vital signs like blood pressure within the dashboard, facilita
 
 
 
-##
-
 ## Challenges
+- Ensuring robust data privacy and security measures to protect sensitive medical information.
+- Navigating complex regulatory requirements and compliance standards in the healthcare industry.
+- Addressing ethical considerations surrounding the use of artificial intelligence in healthcare.
+- Encouraging user adoption and acceptance of AI-driven solutions among healthcare professionals and patients.
 
 ## Review Paper
+[746200a487.pdf](https://github.com/ShivamMehta161/Medica/files/15168703/746200a487.pdf)
 
 
-
+## Prototype Link
+[https://www.figma.com/proto/LAmJDQbZw6y5ZE1BGf4hgH/Ai-Doctor?node-id=6-48&starting-point-node-id=93%3A12&scaling=scale-down](url)
 ## Contributing
 We welcome contributions. Please follow the standard procedure of forking the project, creating a branch, committing your changes, and opening a pull request.
 
