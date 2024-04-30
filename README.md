@@ -83,7 +83,7 @@ Based on the user's reported symptoms and health history, the chatbot suggests p
 
 
 ## Prototype Link
-[https://www.figma.com/proto/LAmJDQbZw6y5ZE1BGf4hgH/Ai-Doctor?node-id=6-48&starting-point-node-id=93%3A12&scaling=scale-down](url)
+<a href="https://www.figma.com/proto/LAmJDQbZw6y5ZE1BGf4hgH/Ai-Doctor?node-id=6-48&starting-point-node-id=93%3A12&scaling=scale-down">Figma Prototype</a>
 ## Contributing
 We welcome contributions. Please follow the standard procedure of forking the project, creating a branch, committing your changes, and opening a pull request.
 
